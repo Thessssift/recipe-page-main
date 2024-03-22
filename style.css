@@ -1,0 +1,22 @@
+:root{
+    background-color: hsl(30, 54%, 90%);
+    font: "/assets/fonts/outfit/static";
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+    background-color: white;
+    border-radius: 15px;
+    margin-top : 10vh;
+    padding: 5vh;
+    min-width: 370px;
+    max-width: 40vw;
+
+}
+img{
+    width:100%;
+    border-radius: 15px;
+}
